@@ -11,7 +11,6 @@ I'm a passionate software developer and aspiring engineer with a focus on **soft
 - **Open Source Contributions**: Actively contributing to open-source projects and helping the community.
 
 ## 💼 Currently Working On:
-- Developing a **Personal Finance Tracker** using Python and Tkinter.
 - Exploring **IoT** applications and integration with everyday technology.
 - Contributing to **data science** and **machine learning** open-source projects.
 
