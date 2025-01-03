@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hey%2C+I'm+Kaveesha+Nethmal...;Follow+me+and+Stay+Updated.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hey%2C+I'm+Kaveesha+Nethmal...;Follow+me+and+Stay+Updated.)](https://git.io/typing-svg)
 
 I'm a passionate software developer and aspiring engineer with a focus on **software development**, **AI**, and **machine learning**. I enjoy solving complex problems, building efficient systems, and continuously improving my skills.
 
