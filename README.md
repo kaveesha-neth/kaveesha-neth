@@ -1,3 +1,25 @@
+# Hi there, I'm Kaveesha! 👋
+
+I'm a passionate software developer and aspiring engineer with a focus on **software development**, **AI**, and **machine learning**. I enjoy solving complex problems, building efficient systems, and continuously improving my skills.
+
+## 👨‍💻 What I do:
+- **Full Stack Development**: End-to-end development using modern technologies for both front-end and back-end.
+- **AI & Machine Learning**: Building intelligent applications using AI frameworks.
+- **UI/UX Design**: Creating user-friendly interfaces to ensure the best user experience.
+- **Automation & Problem Solving**: Automating tasks and optimizing code for better performance.
+- **Open Source Contributions**: Actively contributing to open-source projects and helping the community.
+
+## 💼 Currently Working On:
+- Developing a **Personal Finance Tracker** using Python and Tkinter.
+- Exploring **IoT** applications and integration with everyday technology.
+- Contributing to **data science** and **machine learning** open-source projects.
+
+## 🌱 Learning:
+- Advanced **machine learning** algorithms and their applications in real-world projects.
+- **Cloud Computing** and **DevOps** practices for scalable systems.
+- **UI/UX principles** to further enhance design skills.
+
+
 ## 🚀 My Learning Progress on roadmap.sh
 
 I am actively enhancing my skills by following structured learning paths on [roadmap.sh](https://roadmap.sh). Below is my progress card that reflects the milestones I have achieved so far:
