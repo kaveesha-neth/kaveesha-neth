@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hey%2C+I'm+Kaveesha+Nethmal...;Follow+me+and+Stay+Updated.)](https://git.io/typing-svg)
 
 
-I'm a passionate software developer and aspiring engineer with a focus on **software development**, **AI**, and **machine learning**. I enjoy solving complex problems, building efficient systems, and continuously improving my skills.
+I'm a passionate undergraduate software developer and aspiring engineer with a focus on **software development**, **AI**, and **machine learning**. I enjoy building visually appealing web sites, solving complex problems, building efficient systems, and continuously improving my skills.
 
 ## 👨‍💻 What I do:
 - **Full Stack Development**: End-to-end development using modern technologies for both front-end and back-end.
@@ -15,10 +15,11 @@ I'm a passionate software developer and aspiring engineer with a focus on **soft
 - Contributing to **data science** and **machine learning** open-source projects.
 
 ## 🌱 Learning:
+- Following **BSc.Hons. Information Technology** degree in University of Moratuwa.
 - Advanced **machine learning** algorithms and their applications in real-world projects.
 - **Cloud Computing** and **DevOps** practices for scalable systems.
 - **UI/UX principles** to further enhance design skills.
-
+  
 
 ## 🚀 My Learning Progress on roadmap.sh
 
