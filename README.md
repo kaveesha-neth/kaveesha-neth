@@ -26,7 +26,7 @@ I am actively enhancing my skills by following structured learning paths on [roa
 
 <div style="display: flex;">
   
-  [![roadmap.sh Progress]([https://roadmap.sh/card/tall/6777fbf870129741a808d692?variant=dark](https://roadmap.sh/full-stack?s=6777fbf870129741a808d692))](https://roadmap.sh)
+  [![roadmap.sh Progress](https://roadmap.sh/card/tall/6777fbf870129741a808d692?variant=dark)](https://roadmap.sh)
 
   <div align="center">
   
