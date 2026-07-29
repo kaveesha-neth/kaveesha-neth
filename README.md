@@ -12,7 +12,9 @@ My work spans software development, embedded control, automation, and rapid prot
 
 | Project | What I worked on |
 | --- | --- |
+| **[AURA Music Player](https://github.com/kaveesha-neth/AURA)** | Independently designed and developed a polished offline-first desktop music player with Electron. It includes local library indexing, metadata and album-art caching, synchronized lyrics, waveform seeking, queue management, a five-band Web Audio equalizer, media-key integration, and Windows packaging. |
 | **[CocktailCraft — active development branch](https://github.com/Trishan0/cocktail-crafter/tree/final-testing)** | Contributing to a team-built automated cocktail machine coordinated across a Raspberry Pi, ESP32, ESP8266, and dedicated electromechanical subsystems. My work includes mechanical system design, pinch-valve design and embedded logic, mixer development, custom 3D-printed mechanisms, and hardware assembly and integration. |
+| **[EduMentor AI](https://github.com/kaveesha-neth/EduMentor-AI)** | Built a Gemini-powered adaptive study agent with Google ADK for the **[Build with AI: KDU Sri Lanka Buildathon](https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-build-with-ai-kdu-sri-lanka-buildathon/)**, part of the Google Developer Groups Build with AI initiative. It creates personalized learning plans, teaches through worked examples, runs controlled quizzes, explains mistakes, and tracks learner profiles and progress through session state. |
 | **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** | Developed a Dockerized Python and Telethon service that downloads large Telegram files, splits them into manageable RAR volumes, and sends them back with live progress reporting. |
 | **Local Data Usage Monitor** | Created a persistent Windows background service using Python, Flask, psutil, and Waitress to track network usage and maintain daily usage records. |
 
@@ -32,9 +34,11 @@ My work spans software development, embedded control, automation, and rapid prot
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 <p>
@@ -70,8 +74,14 @@ I am especially interested in cybersecurity, system internals, embedded devices,
 <a href="https://github.com/kaveesha-neth">
   <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
+<a href="https://github.com/kaveesha-neth/AURA">
+  <img src="https://img.shields.io/badge/AURA_Music_Player-6D4AFF?style=for-the-badge&logo=electron&logoColor=white" alt="AURA Music Player" />
+</a>
 <a href="https://github.com/Trishan0/cocktail-crafter/tree/final-testing">
   <img src="https://img.shields.io/badge/CocktailCraft-0F766E?style=for-the-badge&logo=espressif&logoColor=white" alt="CocktailCraft" />
+</a>
+<a href="https://github.com/kaveesha-neth/EduMentor-AI">
+  <img src="https://img.shields.io/badge/EduMentor_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="EduMentor AI" />
 </a>
 <a href="https://github.com/kaveesha-neth/split-bot">
   <img src="https://img.shields.io/badge/Telegram_Split_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Split Bot" />
