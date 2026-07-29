@@ -1,40 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hey%2C+I'm+Kaveesha+Nethmal...;Follow+me+and+Stay+Updated.)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=820&lines=Kaveesha+Nethmal;Information+Technology+Undergraduate;Building+across+software%2C+hardware%2C+and+systems)](https://git.io/typing-svg)
 
-I'm a passionate undergraduate software developer and aspiring engineer with a focus on **software development**, **AI**, and **machine learning**. I enjoy building visually appealing web sites, solving complex problems, building efficient systems, and continuously improving my skills.
+</div>
 
-## 👨‍💻 What I do:
-- **Full Stack Development**: End-to-end development using modern technologies for both front-end and back-end.
-- **AI & Machine Learning**: Building intelligent applications using AI frameworks.
-- **UI/UX Design**: Creating user-friendly interfaces to ensure the best user experience.
-- **Automation & Problem Solving**: Automating tasks and optimizing code for better performance.
-- **Open Source Contributions**: Actively contributing to open-source projects and helping the community.
+I am an Information Technology undergraduate at the University of Moratuwa. I enjoy projects where software has to interact with real systems: devices, networks, operating environments, and people.
 
-## 💼 Currently Working On:
-- Exploring **IoT** applications and integration with everyday technology.
-- Contributing to **data science** and **machine learning** open-source projects.
+My work spans software development, embedded control, automation, and rapid prototyping. I am currently building the systems and networking foundation for a career in cybersecurity.
 
-## 🌱 Learning:
-- Following **BSc.Hons. Information Technology** degree in University of Moratuwa.
-- Advanced **machine learning** algorithms and their applications in real-world projects.
-- **Cloud Computing** and **DevOps** practices for scalable systems.
-- **UI/UX principles** to further enhance design skills.
-  
+## Selected work
 
-## 🚀 My Learning Progress on roadmap.sh
+| Project | What I worked on |
+| --- | --- |
+| **[CocktailCraft — active development branch](https://github.com/Trishan0/cocktail-crafter/tree/final-testing)** | Contributing to a team-built automated cocktail machine coordinated across a Raspberry Pi, ESP32, ESP8266, and dedicated electromechanical subsystems. My work includes mechanical system design, pinch-valve design and embedded logic, mixer development, custom 3D-printed mechanisms, and hardware assembly and integration. |
+| **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** | Developed a Dockerized Python and Telethon service that downloads large Telegram files, splits them into manageable RAR volumes, and sends them back with live progress reporting. |
+| **Local Data Usage Monitor** | Created a persistent Windows background service using Python, Flask, psutil, and Waitress to track network usage and maintain daily usage records. |
 
-I am actively enhancing my skills by following structured learning paths on [roadmap.sh](https://roadmap.sh). Below is my progress card that reflects the milestones I have achieved so far:
+## Technical toolkit
 
-<div style="display: flex;">
-  
-  [![roadmap.sh Progress](https://roadmap.sh/card/tall/6777fbf870129741a808d692?variant=dark)](https://roadmap.sh)
+| Area | Technologies and experience |
+| --- | --- |
+| **Programming languages** | Python, Java, C, JavaScript, SQL |
+| **Web fundamentals** | HTML, CSS, JavaScript |
+| **Web and backend tools** | Node.js, Express, Flask, PHP, MySQL |
+| **Embedded systems** | ESP32, Arduino, Raspberry Pi, sensor integration, motor control, serial communication |
+| **Systems and deployment** | Linux, Docker, Git, Oracle Cloud, Windows services |
+| **Design and prototyping** | Fusion 360, EasyEDA, Blender, Cura, 3D printing |
 
-  <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+## Current direction
 
-  </div>
+- Strengthening my foundations in data structures, object-oriented programming, databases, web technologies, and computer networks.
+- Learning Linux, networking, virtualization, and security from the systems level upward.
+- Designing projects as complete systems, with attention to software, electronics, mechanics, reliability, and maintainability.
+- Improving through hands-on builds, careful debugging, and technical documentation.
+
+## What interests me
+
+I am especially interested in cybersecurity, system internals, embedded devices, networking, automation, and tools that solve practical problems. I like understanding why a system behaves the way it does, then using that understanding to build something dependable.
+
+---
+
+<div align="center">
+
+Explore my repositories to see what I am currently building and learning.
+
 </div>
