@@ -52,7 +52,7 @@ My work spans software development, embedded control, automation, and rapid prot
 
 </div>
 
-Beyond the tools above, I work with sensor and motor integration, serial communication, Oracle Cloud, Windows services, Fusion 360, EasyEDA, Blender, Cura, and 3D printing.
+Beyond the tools above, I work with Oracle Cloud, Windows services, Fusion 360, EasyEDA, Blender, Cura, and 3D printing.
 
 ## Current direction
 
