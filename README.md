@@ -5,108 +5,161 @@
 
 **Information Technology undergraduate · University of Moratuwa, Sri Lanka**
 
-I mostly build things because I want to use them. A missing feature, an inconvenient workflow, or something I wish existed on my own setup usually comes first. The project comes later. Some stay small; others turn into applications or hardware that I keep working on long after the first version runs.
-
-[My repositories](https://github.com/kaveesha-neth?tab=repositories) · [AURA releases](https://github.com/kaveesha-neth/AURA/releases/latest) · [MusicPlayerDock releases](https://github.com/kaveesha-neth/music-player-dock/releases/latest)
+<a href="https://github.com/kaveesha-neth?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="My repositories"></a>
+<a href="https://github.com/kaveesha-neth/AURA/releases/latest"><img src="https://img.shields.io/badge/Get_AURA-6D4AFF?style=flat-square&logo=windows11&logoColor=white" alt="Download AURA"></a>
+<a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest"><img src="https://img.shields.io/badge/Get_MusicPlayerDock-0B8F88?style=flat-square&logo=windows11&logoColor=white" alt="Download MusicPlayerDock"></a>
 
 </div>
 
+Most of my personal projects begin with something I need, not an idea for a portfolio. I look for a tool, find something missing, and end up making my own. Then I keep changing it because I'm the one using it.
+
 ---
 
-## Things I've built
+## On my desktop
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/kaveesha-neth/music-player-dock">
-    <img src="assets/profile/musicplayerdock-liquid-glass.png" width="100%" alt="MusicPlayerDock on a Windows desktop, showing the Liquid Glass interface" />
-  </a>
-  <h3><a href="https://github.com/kaveesha-neth/music-player-dock">MusicPlayerDock</a></h3>
-  <p>I wanted music controls at the top of my Windows screen, available when I needed them and out of the way otherwise. It started as a black notch. Then I wanted actual glass, not just a translucent blur, and ended up working on live desktop capture, refraction, magnification, reflections, and the rendering cost that comes with them.</p>
-  <p><sub>Electron · React · TypeScript · .NET 8 · Windows media sessions · real-time rendering</sub></p>
-  <p><a href="https://github.com/kaveesha-neth/music-player-dock">Source</a> · <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">Windows download</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/kaveesha-neth/AURA">
-    <img src="assets/profile/aura-desktop.png" width="100%" alt="AURA desktop music player with its library, artwork, and playback controls" />
-  </a>
-  <h3><a href="https://github.com/kaveesha-neth/AURA">AURA</a></h3>
-  <p>I wanted a local music player that worked the way I like to listen. AURA grew into a Windows desktop app with library and queue management, synchronized lyrics, waveform seeking, an equalizer, and a redesigned React interface. I also added a touch-oriented layout and integration with compatible Windows media sessions.</p>
-  <p><sub>Electron · React · TypeScript · Web Audio API · .NET 8 / WinRT</sub></p>
-  <p><a href="https://github.com/kaveesha-neth/AURA">Source</a> · <a href="https://github.com/kaveesha-neth/AURA/releases/latest">Windows download</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/kaveesha-neth/codex-usage">
-    <img src="assets/profile/codex-usage-widget.png" width="100%" alt="Codex Usage Widget showing local usage information on the Windows desktop and taskbar" />
-  </a>
-  <h3><a href="https://github.com/kaveesha-neth/codex-usage">Codex Usage Widget</a></h3>
-  <p>I wanted to see my Codex quota and reset times without repeatedly opening another window. This Windows desktop and taskbar widget reads the values reported by the local Codex app-server. It shows the available quota windows and countdowns rather than inventing usage estimates.</p>
-  <p><sub>.NET 8 · Windows desktop / taskbar integration · local app-server</sub></p>
-  <p><a href="https://github.com/kaveesha-neth/codex-usage">Source and documentation</a></p>
-</td>
-<td width="50%" valign="top">
-  <p align="center">
-    <a href="https://github.com/intelli-collective/ChainOps">
-      <img src="assets/profile/chainops-logo.png" width="170" alt="ChainOps project logo" />
-    </a>
-  </p>
-  <h3><a href="https://github.com/intelli-collective/ChainOps">ChainOps</a> <sub>· Team project</sub></h3>
-  <p>A university team project to bring fragmented smart-contract workflows into one place: builds, tests, security findings, approvals, deployment, and monitoring. My work has focused heavily on the UI/UX and how these stages connect in a usable product. This is ongoing team development, not a finished commercial service.</p>
-  <p><sub>React · TypeScript · Figma · DevSecOps workflows · Git / pull requests</sub></p>
-  <p><a href="https://github.com/intelli-collective/ChainOps">Team repository</a></p>
-</td>
-</tr>
-</table>
+### 01 / MusicPlayerDock
 
-<details>
-<summary><b>More views — earlier design and touch controls</b></summary>
-<br />
-<table>
-<tr>
-<td width="50%" valign="top">
-  <img src="assets/profile/musicplayerdock-black-notch.png" width="100%" alt="MusicPlayerDock in its original Black Notch appearance" />
-  <p><sub>MusicPlayerDock's Black Notch mode — where this project started.</sub></p>
-</td>
-<td width="50%" valign="top">
-  <img src="assets/profile/aura-touch.png" width="100%" alt="AURA fullscreen touch interface with queue and vertical volume fader" />
-  <p><sub>AURA's touch interface, with a queue and full-height volume control.</sub></p>
-</td>
-</tr>
-</table>
-</details>
+<a href="https://github.com/kaveesha-neth/music-player-dock"><img src="assets/profile/musicplayerdock-liquid-glass.png" width="100%" alt="MusicPlayerDock in Liquid Glass mode on Windows"></a>
 
-## Smaller tools and experiments
+I wanted playback controls that appear when I need them and otherwise leave the desktop alone. I built a top-edge Windows dock, then spent a lot more time than expected trying to make **actual refraction and magnification** work instead of using another blurred, translucent panel.
 
-Not everything needs to become a big application. Sometimes I just need a utility that does one job properly.
+<a href="https://github.com/kaveesha-neth/music-player-dock"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="MusicPlayerDock source"></a>
+<a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Download MusicPlayerDock"></a>
 
-| Project | Why I built it / what it does |
-| --- | --- |
-| **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** | I needed a less manual way to handle large Telegram files. I made a Dockerized Python/Telethon service that downloads, splits, and sends files back in parts, with progress updates. |
-| **[EduMentor AI](https://github.com/kaveesha-neth/EduMentor-AI)** | An adaptive study agent made for a Build with AI event. It generates learning plans, works through examples, quizzes students, explains mistakes, and keeps session progress. Built with Python, Google ADK, and Gemini. |
-| **Local Data Usage Monitor** | A personal Windows background service for tracking my own network usage and retaining daily records, built with Python, Flask, and psutil. |
-| **[KN-Calc](https://github.com/kaveesha-neth/KN-calc)** | A small keyboard-friendly web calculator — one of my simpler browser projects. |
+<sub>Electron · React · TypeScript · .NET 8 · Windows media sessions · real-time desktop capture</sub>
 
-## Hardware, mechanics, and 3D work
+<p align="center">
+  <img src="assets/profile/musicplayerdock-black-notch.png" width="55%" alt="MusicPlayerDock in Black Notch mode">
+  <sub>Black Notch — the original version is still an option.</sub>
+</p>
 
-<img src="assets/profile/embedded-dispenser.png" width="100%" alt="Automated beverage dispensing prototype showing its assembled hardware" />
+---
 
-I've also worked on a team-built automated beverage dispenser. My contributions have included mechanical design, custom 3D-printed parts, mixer and pinch-valve mechanisms, embedded control logic, and assembly and integration. It brought together firmware, electronics, motors, sensors, and physical mechanisms — very different problems from making a desktop application.
+### 02 / AURA
 
-I use **Blender**, **Fusion 360**, and 3D printing alongside programming. I also work with **Photoshop** and interface design; the visual side of a project matters to me, but it still needs to work.
+<a href="https://github.com/kaveesha-neth/AURA"><img src="assets/profile/aura-desktop.png" width="100%" alt="AURA desktop music player"></a>
 
-## Tools I work with
+My music collection needed a player that worked the way I wanted. AURA now has local library and queue management, synchronized lyrics, waveform seeking, equalization, and a redesigned desktop interface. I also made a **separate touch layout** and added control of compatible Windows media sessions.
 
-| Area | Tools and technologies |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, Python, C, Java, SQL |
-| **Desktop and web** | Electron, React, Node.js, Flask, HTML/CSS, Web Audio API, Windows APIs, .NET / WinRT |
-| **Systems and hardware** | Docker, Git, Linux, ESP32, Raspberry Pi, Arduino, sensors, motors, 3D printing |
-| **Design and prototyping** | Figma, Photoshop, Blender, Fusion 360 |
+<a href="https://github.com/kaveesha-neth/AURA"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="AURA source"></a>
+<a href="https://github.com/kaveesha-neth/AURA/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Download AURA"></a>
 
-## What I'm learning more about
+<sub>Electron · React · TypeScript · Web Audio API · Windows media bridge</sub>
 
-I'm studying Information Technology at the **University of Moratuwa**. I'm particularly interested in computer networks, operating systems, embedded systems, and cybersecurity. I want to understand systems at a lower level, not just use the abstractions on top of them.
+<p align="center">
+  <img src="assets/profile/aura-touch.png" width="75%" alt="AURA fullscreen touch interface">
+  <sub>Fullscreen touch controls, queue, and vertical volume fader.</sub>
+</p>
 
-The projects above are a mix of personal tools, experiments, and team work. Most of the personal ones are things I still use or keep changing because I keep finding new ways I want them to work.
+---
+
+## Another tool I use
+
+### Codex Usage Widget
+
+<p align="center">
+  <a href="https://github.com/kaveesha-neth/codex-usage"><img src="assets/profile/codex-usage-widget.png" width="85%" alt="Codex Usage Widget on the Windows desktop"></a>
+</p>
+
+I wanted to see **real quota percentages and reset times** without opening the CLI every time. This is a Windows desktop and taskbar widget that reads the local Codex app-server's reported values, including the remaining time for each available window.
+
+<a href="https://github.com/kaveesha-neth/codex-usage"><img src="https://img.shields.io/badge/SOURCE_%26_DOCS-181717?style=flat-square&logo=github&logoColor=white" alt="Codex Usage Widget source and docs"></a>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
+
+---
+
+## Work with a team
+
+### ChainOps · Smart contract DevSecOps
+
+<p align="center">
+  <a href="https://github.com/intelli-collective/ChainOps"><img src="assets/profile/chainops-logo.png" width="215" alt="ChainOps logo"></a>
+</p>
+
+We're building a platform to connect smart-contract builds, tests, security reviews, approvals, deployments, and monitoring. I've worked mainly on the **UI/UX and the flow between those areas**. It's an ongoing university team project.
+
+<a href="https://github.com/intelli-collective/ChainOps"><img src="https://img.shields.io/badge/TEAM_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="ChainOps team repository"></a>
+<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+
+---
+
+## Hardware, mechanics & 3D
+
+### CocktailCraft · Team build
+
+<p align="center">
+  <a href="https://github.com/Trishan0/cocktail-crafter/tree/final-testing"><img src="assets/profile/embedded-dispenser.png" width="320" alt="CocktailCraft automated dispenser prototype"></a>
+</p>
+
+Working on an automated dispenser took me into custom 3D-printed mechanisms, mixer and pinch-valve design, embedded logic, and putting the hardware together. I worked on the mechanical and integration side as part of the team.
+
+<a href="https://github.com/Trishan0/cocktail-crafter/tree/final-testing"><img src="https://img.shields.io/badge/PROJECT_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="CocktailCraft source"></a>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+
+---
+
+## Smaller things I made
+
+- **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** — Splits large Telegram files into manageable parts on an Oracle Cloud VM and sends them back with progress updates. `Python` · `Telethon` · `Docker`
+- **[EduMentor AI](https://github.com/kaveesha-neth/EduMentor-AI)** — Adaptive study plans, worked examples, quizzes, and progress tracking, built for a Build with AI event. `Python` · `Google ADK` · `Gemini`
+- **Local Data Usage Monitor** — A Windows background service to keep track of my own daily network usage. `Python` · `Flask` · `psutil`
+- **[KN-Calc](https://github.com/kaveesha-neth/KN-calc)** — A simple keyboard-friendly browser calculator. `HTML` · `CSS` · `JavaScript`
+
+---
+
+## Technical toolkit
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+**Desktop & web**
+
+<p>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
+</p>
+
+**Systems & hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+**Design & prototyping**
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/Fusion_360-F36F21?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360">
+  <img src="https://img.shields.io/badge/3D_Printing-444444?style=flat-square" alt="3D printing">
+</p>
+
+---
+
+I'm studying IT at the **University of Moratuwa**, and spending more time on computer networks, operating systems, embedded systems, and cybersecurity. Most of what I learn ends up being useful for something I'm building.
