@@ -1,90 +1,112 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=820&lines=Kaveesha+Nethmal;Information+Technology+Undergraduate;Building+across+software%2C+hardware%2C+and+systems)](https://git.io/typing-svg)
-
-</div>
-
-I am an Information Technology undergraduate at the University of Moratuwa. I enjoy projects where software has to interact with real systems: devices, networks, operating environments, and people.
-
-My work spans software development, embedded control, automation, and rapid prototyping. I am currently building the systems and networking foundation for a career in cybersecurity.
-
-## Selected work
-
-| Project | What I worked on |
-| --- | --- |
-| **[AURA Music Player](https://github.com/kaveesha-neth/AURA)** | Independently designed and developed a polished offline-first desktop music player with Electron. It includes local library indexing, metadata and album-art caching, synchronized lyrics, waveform seeking, queue management, a five-band Web Audio equalizer, media-key integration, and Windows packaging. |
-| **[CocktailCraft — active development branch](https://github.com/Trishan0/cocktail-crafter/tree/final-testing)** | Contributing to a team-built automated cocktail machine coordinated across a Raspberry Pi, ESP32, ESP8266, and dedicated electromechanical subsystems. My work includes mechanical system design, pinch-valve design and embedded logic, mixer development, custom 3D-printed mechanisms, and hardware assembly and integration. |
-| **[EduMentor AI](https://github.com/kaveesha-neth/EduMentor-AI)** | Built a Gemini-powered adaptive study agent with Google ADK for the **[Build with AI: KDU Sri Lanka Buildathon](https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-build-with-ai-kdu-sri-lanka-buildathon/)**, part of the Google Developer Groups Build with AI initiative. It creates personalized learning plans, teaches through worked examples, runs controlled quizzes, explains mistakes, and tracks learner profiles and progress through session state. |
-| **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** | Developed a Dockerized Python and Telethon service that downloads large Telegram files, splits them into manageable RAR volumes, and sends them back with live progress reporting. |
-| **Local Data Usage Monitor** | Created a persistent Windows background service using Python, Flask, psutil, and Waitress to track network usage and maintain daily usage records. |
-
-## Technical toolkit
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+# Kaveesha Nethmal
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-</p>
+**Information Technology undergraduate · University of Moratuwa, Sri Lanka**
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+I mostly build things because I want to use them. A missing feature, an inconvenient workflow, or something I wish existed on my own setup usually comes first. The project comes later. Some stay small; others turn into applications or hardware that I keep working on long after the first version runs.
+
+[My repositories](https://github.com/kaveesha-neth?tab=repositories) · [AURA releases](https://github.com/kaveesha-neth/AURA/releases/latest) · [MusicPlayerDock releases](https://github.com/kaveesha-neth/music-player-dock/releases/latest)
 
 </div>
-
-Beyond the tools above, I work with Oracle Cloud, Windows services, Fusion 360, EasyEDA, Blender, Cura, and 3D printing.
-
-## Current direction
-
-- Strengthening my foundations in data structures, object-oriented programming, databases, web technologies, and computer networks.
-- Learning Linux, networking, virtualization, and security from the systems level upward.
-- Designing projects as complete systems, with attention to software, electronics, mechanics, reliability, and maintainability.
-- Improving through hands-on builds, careful debugging, and technical documentation.
-
-## What interests me
-
-I am especially interested in cybersecurity, system internals, embedded devices, networking, automation, and tools that solve practical problems. I like understanding why a system behaves the way it does, then using that understanding to build something dependable.
 
 ---
 
-## Explore my work
+## Things I've built
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/kaveesha-neth/music-player-dock">
+    <img src="assets/profile/musicplayerdock-liquid-glass.png" width="100%" alt="MusicPlayerDock on a Windows desktop, showing the Liquid Glass interface" />
+  </a>
+  <h3><a href="https://github.com/kaveesha-neth/music-player-dock">MusicPlayerDock</a></h3>
+  <p>I wanted music controls at the top of my Windows screen, available when I needed them and out of the way otherwise. It started as a black notch. Then I wanted actual glass, not just a translucent blur, and ended up working on live desktop capture, refraction, magnification, reflections, and the rendering cost that comes with them.</p>
+  <p><sub>Electron · React · TypeScript · .NET 8 · Windows media sessions · real-time rendering</sub></p>
+  <p><a href="https://github.com/kaveesha-neth/music-player-dock">Source</a> · <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">Windows download</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/kaveesha-neth/AURA">
+    <img src="assets/profile/aura-desktop.png" width="100%" alt="AURA desktop music player with its library, artwork, and playback controls" />
+  </a>
+  <h3><a href="https://github.com/kaveesha-neth/AURA">AURA</a></h3>
+  <p>I wanted a local music player that worked the way I like to listen. AURA grew into a Windows desktop app with library and queue management, synchronized lyrics, waveform seeking, an equalizer, and a redesigned React interface. I also added a touch-oriented layout and integration with compatible Windows media sessions.</p>
+  <p><sub>Electron · React · TypeScript · Web Audio API · .NET 8 / WinRT</sub></p>
+  <p><a href="https://github.com/kaveesha-neth/AURA">Source</a> · <a href="https://github.com/kaveesha-neth/AURA/releases/latest">Windows download</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/kaveesha-neth/codex-usage">
+    <img src="assets/profile/codex-usage-widget.png" width="100%" alt="Codex Usage Widget showing local usage information on the Windows desktop and taskbar" />
+  </a>
+  <h3><a href="https://github.com/kaveesha-neth/codex-usage">Codex Usage Widget</a></h3>
+  <p>I wanted to see my Codex quota and reset times without repeatedly opening another window. This Windows desktop and taskbar widget reads the values reported by the local Codex app-server. It shows the available quota windows and countdowns rather than inventing usage estimates.</p>
+  <p><sub>.NET 8 · Windows desktop / taskbar integration · local app-server</sub></p>
+  <p><a href="https://github.com/kaveesha-neth/codex-usage">Source and documentation</a></p>
+</td>
+<td width="50%" valign="top">
+  <p align="center">
+    <a href="https://github.com/intelli-collective/ChainOps">
+      <img src="assets/profile/chainops-logo.png" width="170" alt="ChainOps project logo" />
+    </a>
+  </p>
+  <h3><a href="https://github.com/intelli-collective/ChainOps">ChainOps</a> <sub>· Team project</sub></h3>
+  <p>A university team project to bring fragmented smart-contract workflows into one place: builds, tests, security findings, approvals, deployment, and monitoring. My work has focused heavily on the UI/UX and how these stages connect in a usable product. This is ongoing team development, not a finished commercial service.</p>
+  <p><sub>React · TypeScript · Figma · DevSecOps workflows · Git / pull requests</sub></p>
+  <p><a href="https://github.com/intelli-collective/ChainOps">Team repository</a></p>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/kaveesha-neth">
-  <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://github.com/kaveesha-neth/AURA">
-  <img src="https://img.shields.io/badge/AURA_Music_Player-6D4AFF?style=for-the-badge&logo=electron&logoColor=white" alt="AURA Music Player" />
-</a>
-<a href="https://github.com/Trishan0/cocktail-crafter/tree/final-testing">
-  <img src="https://img.shields.io/badge/CocktailCraft-0F766E?style=for-the-badge&logo=espressif&logoColor=white" alt="CocktailCraft" />
-</a>
-<a href="https://github.com/kaveesha-neth/EduMentor-AI">
-  <img src="https://img.shields.io/badge/EduMentor_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="EduMentor AI" />
-</a>
-<a href="https://github.com/kaveesha-neth/split-bot">
-  <img src="https://img.shields.io/badge/Telegram_Split_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Split Bot" />
-</a>
+<details>
+<summary><b>More views — earlier design and touch controls</b></summary>
+<br />
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/profile/musicplayerdock-black-notch.png" width="100%" alt="MusicPlayerDock in its original Black Notch appearance" />
+  <p><sub>MusicPlayerDock's Black Notch mode — where this project started.</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/profile/aura-touch.png" width="100%" alt="AURA fullscreen touch interface with queue and vertical volume fader" />
+  <p><sub>AURA's touch interface, with a queue and full-height volume control.</sub></p>
+</td>
+</tr>
+</table>
+</details>
 
-</div>
+## Smaller tools and experiments
+
+Not everything needs to become a big application. Sometimes I just need a utility that does one job properly.
+
+| Project | Why I built it / what it does |
+| --- | --- |
+| **[Telegram Large File Splitter Bot](https://github.com/kaveesha-neth/split-bot)** | I needed a less manual way to handle large Telegram files. I made a Dockerized Python/Telethon service that downloads, splits, and sends files back in parts, with progress updates. |
+| **[EduMentor AI](https://github.com/kaveesha-neth/EduMentor-AI)** | An adaptive study agent made for a Build with AI event. It generates learning plans, works through examples, quizzes students, explains mistakes, and keeps session progress. Built with Python, Google ADK, and Gemini. |
+| **Local Data Usage Monitor** | A personal Windows background service for tracking my own network usage and retaining daily records, built with Python, Flask, and psutil. |
+| **[KN-Calc](https://github.com/kaveesha-neth/KN-calc)** | A small keyboard-friendly web calculator — one of my simpler browser projects. |
+
+## Hardware, mechanics, and 3D work
+
+<img src="assets/profile/embedded-dispenser.png" width="100%" alt="Automated beverage dispensing prototype showing its assembled hardware" />
+
+I've also worked on a team-built automated beverage dispenser. My contributions have included mechanical design, custom 3D-printed parts, mixer and pinch-valve mechanisms, embedded control logic, and assembly and integration. It brought together firmware, electronics, motors, sensors, and physical mechanisms — very different problems from making a desktop application.
+
+I use **Blender**, **Fusion 360**, and 3D printing alongside programming. I also work with **Photoshop** and interface design; the visual side of a project matters to me, but it still needs to work.
+
+## Tools I work with
+
+| Area | Tools and technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, C, Java, SQL |
+| **Desktop and web** | Electron, React, Node.js, Flask, HTML/CSS, Web Audio API, Windows APIs, .NET / WinRT |
+| **Systems and hardware** | Docker, Git, Linux, ESP32, Raspberry Pi, Arduino, sensors, motors, 3D printing |
+| **Design and prototyping** | Figma, Photoshop, Blender, Fusion 360 |
+
+## What I'm learning more about
+
+I'm studying Information Technology at the **University of Moratuwa**. I'm particularly interested in computer networks, operating systems, embedded systems, and cybersecurity. I want to understand systems at a lower level, not just use the abstractions on top of them.
+
+The projects above are a mix of personal tools, experiments, and team work. Most of the personal ones are things I still use or keep changing because I keep finding new ways I want them to work.
