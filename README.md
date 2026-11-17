@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=650&lines=Software+Developer+%26+IT+Undergraduate;Curious+about+Systems+%26+Engineering;Software+%C2%B7+Hardware+%C2%B7+Problem+Solving" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1600&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer+%26+IT+Undergraduate;Curious+about+Systems+%26+Engineering;Software+%C2%B7+Hardware+%C2%B7+Problem+Solving" alt="Typing SVG">
   </a>
 </p>
 
@@ -36,13 +36,21 @@ Currently exploring **computer networks, systems engineering, and cybersecurity*
   <sub>SOFTWARE &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; HARDWARE &nbsp; / &nbsp; DESIGN</sub>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/kaveesha-neth?tab=repositories">REPOSITORIES</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/kaveesha-neth/AURA/releases/latest">AURA</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">MUSIC PLAYER DOCK</a>
+  <a href="https://github.com/kaveesha-neth?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaveesha-neth/AURA/releases/latest">
+    <img src="https://img.shields.io/badge/AURA-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="AURA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">
+    <img src="https://img.shields.io/badge/MUSIC_PLAYER_DOCK-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="Music Player Dock" />
+  </a>
 </p>
+
 
 
 ---
