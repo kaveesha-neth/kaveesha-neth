@@ -1,30 +1,49 @@
 
-<!-- GitHub profile README — Kaveesha Nethmal -->
 
-<p align="right"><sub>A LITTLE ABOUT ME &nbsp; / &nbsp; SRI LANKA</sub></p>
+<!-- GitHub profile introduction — Kaveesha Nethmal -->
 
-# Hey, I'm Kaveesha.
 
-**Software developer & Information Technology undergraduate**  
-<sub>University of Moratuwa, Sri Lanka</sub>
+<p align="right">
+  <sub>PERSONAL PROFILE &nbsp; / &nbsp; SRI LANKA</sub>
+</p>
+
+<h1 align="center">Kaveesha Nethmal</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=650&lines=Software+Developer+%26+IT+Undergraduate;Curious+about+Systems+%26+Engineering;Software+%C2%B7+Hardware+%C2%B7+Problem+Solving" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Software Developer · Information Technology Undergraduate</strong><br>
+  <sub>University of Moratuwa · Sri Lanka</sub>
+</p>
 
 ---
 
-I'm curious about how things work. When I use an application, a device, or even a small feature that catches my attention, I often want to know what's happening underneath it — how the parts fit together, why someone designed it that way, and how I might build something similar myself.
+<p align="center">
+  <em>Curiosity about how things work. An interest in understanding, building, and improving them.</em>
+</p>
 
-Most of my personal projects start with a need of my own. I look for an existing tool, find that something is missing or doesn't quite work the way I want, and end up making my own. Then I use it, notice another problem, and keep changing it. That's how a lot of my learning happens too: **I run into something I don't understand, figure out enough to work with it, and go deeper from there.**
+An undergraduate with a broad interest in technology and engineering, particularly the systems and ideas that make things work. Drawn to understanding how components interact, why things are designed the way they are, and how those ideas translate into practical solutions.
 
-I don't really stick to one area. I enjoy software development, operating systems, networking, electronics, mechanics, and the visual side of making things. Right now, I'm spending more time learning about **computer networks, systems, and cybersecurity**, alongside whatever I'm building at the moment.
+Interests span software development, operating systems, computer networks, electronics, mechanical engineering, and design. Learning is approached through exploration and hands-on experimentation, with an emphasis on understanding concepts beyond their surface-level application.
 
-<p align="center"><sub>SOFTWARE &nbsp;·&nbsp; SYSTEMS &nbsp;·&nbsp; HARDWARE &nbsp;·&nbsp; DESIGN</sub></p>
+Currently exploring **computer networks, systems engineering, and cybersecurity**, alongside ongoing software and hardware projects.
 
 <p align="center">
-  <a href="https://github.com/kaveesha-neth?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/kaveesha-neth/AURA/releases/latest">AURA releases</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">MusicPlayerDock releases</a>
+  <sub>SOFTWARE &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; HARDWARE &nbsp; / &nbsp; DESIGN</sub>
 </p>
+
+<p align="center">
+  <a href="https://github.com/kaveesha-neth?tab=repositories">REPOSITORIES</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/kaveesha-neth/AURA/releases/latest">AURA</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/kaveesha-neth/music-player-dock/releases/latest">MUSIC PLAYER DOCK</a>
+</p>
+
 
 ---
 
