@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Kaveesha Nethmal, software developer and multidisciplinary builder. Need, build, use, refine.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1016"/><stop offset="1" stop-color="#101B21"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64D9B5"/><stop offset="1" stop-color="#80A9C9"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#D3E4E3" stroke-opacity=".035" stroke-width="1"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="438" rx="17" fill="url(#bg)" stroke="#26323B" stroke-width="2"/>
+<rect x="0" y="0" width="1200" height="440" rx="17" fill="url(#grid)"/>
+<path d="M35 33H1164" stroke="#29353D" stroke-width="1"/>
+<rect x="37" y="31" width="66" height="4" rx="2" fill="url(#accent)"/>
+<text x="39" y="68" fill="#7EE0C4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.2">KN / PROFILE</text>
+<text x="1162" y="68" text-anchor="end" fill="#728793" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">SRI LANKA · 2026</text>
+<text x="37" y="163" fill="#EDF3F3" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-3.8">Kaveesha</text>
+<text x="37" y="253" fill="#EDF3F3" font-family="Arial, Helvetica, sans-serif" font-size="95" font-weight="700" letter-spacing="-4.7">Nethmal<tspan fill="#6ADBB6">.</tspan></text>
+<path d="M39 282H654" stroke="#42515A" stroke-width="1"/>
+<text x="39" y="317" fill="#B8C9CD" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">Software developer</text>
+<circle cx="250" cy="310" r="3" fill="#61C9AA"/>
+<text x="267" y="317" fill="#B8C9CD" font-family="Arial, Helvetica, sans-serif" font-size="21">Multidisciplinary builder</text>
+<text x="39" y="387" fill="#80959F" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">SOFTWARE  /  SYSTEMS  /  HARDWARE  /  PRODUCT ENGINEERING</text>
+<rect x="736" y="95" width="425" height="292" rx="11" fill="#121D24" fill-opacity=".95" stroke="#2C3C44"/>
+<text x="765" y="132" fill="#8DACA9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.0">HOW MY PROJECTS START</text>
+<path d="M782 173V338" stroke="#3D6D68" stroke-width="2" stroke-dasharray="3 8"/>
+<circle cx="782" cy="176" r="7" fill="#69DAB7"/><circle cx="782" cy="230" r="7" fill="#142920" stroke="#69DAB7" stroke-width="2"/>
+<circle cx="782" cy="284" r="7" fill="#142920" stroke="#69DAB7" stroke-width="2"/><circle cx="782" cy="338" r="7" fill="#142920" stroke="#69DAB7" stroke-width="2"/>
+<text x="812" y="183" fill="#F3F6F6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1">NEED</text>
+<text x="812" y="237" fill="#F3F6F6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1">BUILD</text>
+<text x="812" y="291" fill="#F3F6F6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1">USE</text>
+<text x="812" y="345" fill="#F3F6F6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1">REFINE</text>
+<text x="1138" y="181" text-anchor="end" fill="#8CA3AB" font-family="Arial, Helvetica, sans-serif" font-size="15">find the gap</text>
+<text x="1138" y="235" text-anchor="end" fill="#8CA3AB" font-family="Arial, Helvetica, sans-serif" font-size="15">make my own</text>
+<text x="1138" y="289" text-anchor="end" fill="#8CA3AB" font-family="Arial, Helvetica, sans-serif" font-size="15">put it to work</text>
+<text x="1138" y="343" text-anchor="end" fill="#8CA3AB" font-family="Arial, Helvetica, sans-serif" font-size="15">keep improving</text>
+<path d="M1150 408h-17m17 0v-17" stroke="#53726F" stroke-width="1.4"/>
+</svg>
